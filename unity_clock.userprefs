@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Unity_car_intel\Assets\~AlternatePhysicsModel\Scripts\MotionCOntroller.cs">
+    <Files>
+      <File FileName="..\Unity_car_intel\Assets\~AlternatePhysicsModel\Scripts\MotionCOntroller.cs" Line="159" Column="19" />
+      <File FileName="..\Unity_car_intel\Assets\~AlternatePhysicsModel\Scripts\CarController.cs" Line="112" Column="28" />
+      <File FileName="..\Unity_car_intel\Assets\~AlternatePhysicsModel\Scripts\Wheel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game 4 - 3D breakout\Scripts\RenderPlane.cs" Line="2" Column="25" />
+      <File FileName="Assets\Game 4 - 3D breakout\Scripts\BreakoutGame.cs" Line="44" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
